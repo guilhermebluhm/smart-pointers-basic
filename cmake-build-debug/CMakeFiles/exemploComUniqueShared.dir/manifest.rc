@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Samsung/CLionProjects/exemploComUniqueShared/cmake-build-debug/CMakeFiles/exemploComUniqueShared.dir/embed.manifest"
